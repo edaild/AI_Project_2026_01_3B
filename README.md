@@ -60,5 +60,5 @@ MakrDown 내용 정리
 
  <!-- TodoList -->
  - [x] JOB 1
- - [] JOB 2
- - [] JOB 3
+ - [ ] JOB 2
+ - [ ] JOB 3
