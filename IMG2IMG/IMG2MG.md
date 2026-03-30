@@ -1,6 +1,6 @@
 # IMG2IMG
 
-![image](https://raw.githubusercontent.com/edaild/AI_Project_2026_01_3B//00048-1422918139.png)
+<!-- ![image](https://github.com/edaild/AI_Project_2026_01_3B/blob/main/IMG2IMG/00049-715697289.png?raw=true) -->
 
 > Prompt
 
